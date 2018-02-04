@@ -30,6 +30,7 @@ Use Postman to test APIs.
 /plus
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | inputA        | Number        |              |
@@ -41,6 +42,7 @@ Parameter
 /minus
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | inputA        | Number        |              |
@@ -52,6 +54,7 @@ Parameter
 /multiply
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | inputA        | Number        |              |
@@ -63,6 +66,7 @@ Parameter
 /divide
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | inputA        | Number        |              |
@@ -74,6 +78,7 @@ Parameter
 /pow
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | inputA        | Number        |              |
@@ -85,6 +90,7 @@ Parameter
 /load
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | id            | String        | Unique id    |
@@ -95,6 +101,7 @@ Parameter
 /save
 ```
 Parameter
+
 | Field         | Type          | Description  |
 | ------------- | ------------- | ------------ |
 | id            | String        | Unique id    |
